@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Cannibalism, a strange fact of life.
 Use the left arrow to go back!
